@@ -13,7 +13,7 @@ Hi there! I'm Jarek , a bioinformatician by training and a passionate tinkerer b
 - **[Master Thesis](https://github.com/Milithril/TNM-NGS)** — My MSc thesis on prediction of kidney cancer in TNM scale, exploring machine learning based on the genem expression HTSEQ data.
 - **[Bachelor Thesis](https://github.com/Milithril/C.A-ASF.git)** — My BSc thesis on cellular automata simulating epidemic of African Swine Fever.
 
-### <3 Machine Learning E>
+### 🔌 Machine Learning <3
 - **[Prediction of Polish Holstein’s](https://github.com/Milithril/Cow.git)** - My apporach in using Machine learnign to predict Economical Index & Calving Interval of a Cow.
 - **[Prediction of Gecko Behaviour](https://github.com/Milithril/Geckos.git)**. - Our approach at usage of Machine learning algorythms to predict reaction of Gecko.
 
