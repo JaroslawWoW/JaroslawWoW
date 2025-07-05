@@ -11,7 +11,7 @@ Hi there! I'm Jarek , a bioinformatician by training and a passionate tinkerer b
 
 ### 🧪 Bioinformatics & Science
 - **[Master Thesis](https://github.com/Milithril/TNM-NGS)** —My MSc thesis on predicting kidney cancer TNM staging using machine learning models trained on gene expression (HTSeq count) data.
-- **[Bachelor Thesis](https://github.com/Milithril/C.A-ASF.git)** —
+- **[Bachelor Thesis](https://github.com/Milithril/C.A-ASF.git)** — My BSc thesis on cellular automata simulating epidemic of African Swine Fever.
 
 ### 🔌 Machine Learning <3
 - **[Prediction of Polish Holstein’s](https://github.com/Milithril/Cow.git)** - My apporach in using Machine learnign to predict Economical Index & Calving Interval of a Cow.
@@ -19,6 +19,7 @@ Hi there! I'm Jarek , a bioinformatician by training and a passionate tinkerer b
 
 ### 💡 Fun & Experimental Apps
 - **[LoL Timer App](https://github.com/Milithril/LoL-timer.git)** — A simple voice-activated timer to track in-game cooldowns (because who wants to count seconds manually?).
+- **[Among us Sherlock](https://github.com/JaroslawWoW/Among_Us_Sherlock.git)** - A compaion to help you catch those pesky SuS crewmates
 - *(More random tools and experiments coming soon!)*
 
 ---
