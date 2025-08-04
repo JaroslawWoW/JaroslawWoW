@@ -20,6 +20,7 @@ Hi there! I'm Jarek , a bioinformatician by training and a passionate tinkerer b
 ### 💡 Fun & Experimental Apps
 - **[LoL Timer App](https://github.com/Milithril/LoL-timer.git)** — A simple voice-activated timer to track in-game cooldowns (because who wants to count seconds manually?).
 - **[Among us Sherlock](https://github.com/JaroslawWoW/Among_Us_Sherlock.git)** - A compaion to help you catch those pesky SuS crewmates
+- Maaaaaybe I will try making an assistant to Don't Starve Together : >
 - *(More random tools and experiments coming soon!)*
 
 ---
