@@ -5,7 +5,13 @@ Hi there! I'm Jarek , a bioinformatician by training and a passionate tinkerer b
 🧬 By day, I analyze sequencing data and build bioinformatics pipelines.  
 🎮 By night, I create random apps to scratch an itch or just for fun — like timers for League of Legends to track cooldowns using voice commands!
 
-I am familiar with libraries such as YOLO, TensorFlow, Keras, NumPy, and several other data science \ ML oriented tools.
+I am familiar with libraries such as:
+- YOLO,
+- TensorFlow,
+- Keras,
+- NumPy,
+- aaand several other data science \ ML oriented tools.
+
 ---
 
 ## 🌟 Projects
